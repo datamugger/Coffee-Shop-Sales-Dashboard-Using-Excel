@@ -14,3 +14,11 @@ The main objective of this project is to analyze retail sales data to gain actio
 5. What is the average price/order per person?
 6. Which products are the best-selling in terms of quantity and revenue?
 7. How do sales vary by product category and type?
+
+## Insights
+
+1. From 9:00 AM to 10:00 AM is the Peak time.
+2. Sales in lowest on the weekends.
+3. Coffee is the highest selling category then comes Tea.
+4. Regular size is the most selling size and small is the least.
+5. Footfall and Sales in Lower Manhattan region is low compare to Astoria and Hell's Kitchen.
