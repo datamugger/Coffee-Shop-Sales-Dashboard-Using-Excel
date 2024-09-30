@@ -3,7 +3,8 @@ The main objective of this project is to analyze retail sales data to gain actio
 
    <img width="820" alt="Coffee Shop Sales Dashboard" src="https://github.com/datamugger/Coffee-Shop-Sales-Dashboard-Using-Excel/assets/127864551/bf57eb26-c219-4c94-8110-dc8bb9e80d32">
    
-## Dataset link = https://mavenanalytics.io/data-playground?page=3&pageSize=5
+## Dataset link:
+https://mavenanalytics.io/data-playground?page=3&pageSize=5
 
 ## Recommended Analysis:
 
